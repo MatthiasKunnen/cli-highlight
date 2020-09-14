@@ -1,7 +1,0 @@
-node_modules/
-dist/
-typings/
-.vscode/
-typedoc/
-.nyc_output/
-coverage/
